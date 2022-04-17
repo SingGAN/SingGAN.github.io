@@ -204,9 +204,9 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/women/F3_1_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F3_1_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/F3_1_02_generated.wav" type="audio/wav"></audio></td>           
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F3_1_02.wav" type="audio/wav"></audio></td>
+<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/F3_1_02_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -217,9 +217,9 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/women/F1_1_03.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F1_1_03.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/F1_1_03_generated.wav" type="audio/wav"></audio></td>           
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F1_1_03.wav" type="audio/wav"></audio></td>
+<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/F1_1_03_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
         <tbody>
@@ -230,8 +230,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/women/F4_2_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F4_2_01.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/F4_2_01_generated.wav" type="audio/wav"></audio></td>           
+             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/F4_2_01_generated.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/F4_2_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/F4_2_01_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
@@ -243,8 +243,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/women/vocal-盛夏的果实_06.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/vocal-盛夏的果实_06.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/vocal-盛夏的果实_06_generated.wav" type="audio/wav"></audio></td>           
+             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/vocal-盛夏的果实_06_generated.wav" type="audio/wav"></audio></td>           
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/vocal-盛夏的果实_06.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/vocal-盛夏的果实_06_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
@@ -256,9 +256,9 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/women/中文女声DM-001-22.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/中文女声DM-001-22_generated.wav" type="audio/wav"></audio></td>            
              <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_woman/中文女声DM-001-22.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_woman/中文女声DM-001-22_generated.wav" type="audio/wav"></audio></td>           
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
+           <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/women/中文女声DM-001-22_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -285,9 +285,9 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/man/m4_1_stc2.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m4_1_stc2.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m4_1_stc2_generated.wav" type="audio/wav"></audio></td>           
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
+           <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m4_1_stc2_generated.wav" type="audio/wav"></audio></td>            
+           <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m4_1_stc2.wav" type="audio/wav"></audio></td>
+           <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/m4_1_stc2_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -298,8 +298,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/man/m9_2_stc6.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m9_2_stc6.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m9_2_stc6_generated.wav" type="audio/wav"></audio></td>           
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m9_2_stc6_generated.wav" type="audio/wav"></audio></td>            
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m9_2_stc6.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/m9_2_stc6_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
@@ -311,8 +311,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/man/100627002_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/man/100627002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/man/100627002_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/100627002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/100627002_generated.wav" type="audio/wav"></audio></td>           
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/100627002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/100627002_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
@@ -324,8 +324,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/man/m2_1_stc1.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m2_1_stc1.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m2_1_stc1_generated.wav" type="audio/wav"></audio></td>           
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m2_1_stc1.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/m2_1_stc1_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
@@ -337,8 +337,8 @@ Audio samples are available at  <a href="https://SingGAN.github.io/">https://Sin
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/nsf/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/FBMelGAN/man/m2_2_stc4.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/pwg_all/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m2_2_stc4.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/HIFIGAN/unseen_man/m2_2_stc4_generated.wav" type="audio/wav"></audio></td>           
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/Diffwave/unseen_man/m2_2_stc4.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/unseen-singing/SingVocoder/man/m2_2_stc4_gen.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
