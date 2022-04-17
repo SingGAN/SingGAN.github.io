@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+layout: default
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+title: "SingGAN: Generative Adversarial NetWork For High-Fidelity Singing Voice Generation"
+#description: Author<sup>1</sup>, Author<sup>2</sup>, Author<sup>1</sup>
+#address1: <sup>1</sup>Zhejiang University, China
+#address2: <sup>2</sup>Zhejiang University, China
